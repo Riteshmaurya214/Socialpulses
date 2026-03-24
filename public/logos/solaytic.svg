@@ -1,0 +1,5 @@
+<svg width="160" height="60" viewBox="0 0 160 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="30" r="16" fill="#4a5568"/>
+  <path d="M20 20 L26 30 L20 40 L14 30 Z" fill="white"/>
+  <text x="45" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#2d3748">solaytic</text>
+</svg>
